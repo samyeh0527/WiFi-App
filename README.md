@@ -1,7 +1,4 @@
 # WiFi-App
-
-Note !!
-
 Warning please attention and followed this note you will use App
 ================================================================================
 
